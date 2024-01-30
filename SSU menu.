@@ -95,4 +95,3 @@ total_bill = beverage_cost + snack_cost
 print(f"\n\t\tTotal: {beverage_name} + {snack_name} = ₱{total_bill:.2f}")
 print ("\n\t\t\n\n\n\n\t\t     Please pay exact amount, Thankyou.")
 
-#PS: THIS CODE IS NOT 100% FROM MY OWN MIND, I MIXED TOGETHER CODES I GATHERED FROM VARIOUS SOURCES TO CREATE A PROGRAM. IT'S NOT WRONG TO LOOK FOR SOURCE CODES FOR YOUR PROGRAMS. WHAT MATTERS IS THAT YOU UNDERSTAND HOW THEY WORK AND HOW TO ADJUST YOUR OWN CODE ACCORDINGLY.
